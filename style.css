@@ -1,4 +1,11 @@
-.title{
+:root {
+    --hero-background:#2F303A;
+    --button:#2196F3;
+    --main-background: #FFFFFF
+    }
+        
+ background
+.tiitle{
     color: blue;
 }
 .tiitle{
