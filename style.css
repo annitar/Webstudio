@@ -7,11 +7,14 @@
  background
 .tiitle{
     color: blue;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    font-weight: 700;
 }
-.tiitle{
+.title{
     color: black;
 }
-.navigation{
+.navigation-list{
     color:black
 }
 .navigationstudio{
@@ -25,4 +28,9 @@
 }
 .footer{
     background-color: rgb(60, 63, 66)
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
 }
