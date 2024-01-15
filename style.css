@@ -1,35 +1,47 @@
 :root {
-    --hero-background:#2F303A;
-    --button:#2196F3;
+    --hero-background: #2F303A;
+    --button: #2196F3;
     --main-background: #FFFFFF
-    }
-        
- background
-.tiitle{
-    color: blue;
+}
+
+.tiitle {
+    color:blue;
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
+    
 }
-.title{
+
+.title {
     color: black;
 }
-.navigation-list{
-    color:black
+
+.navigation-list {
+    color: black;
+    list-style: none;
+    
 }
-.navigationstudio{
-    color: blue;
+.contacts{ 
+list-style: none;
 }
-.allbutton{
-    background-color:rgb(60, 63, 66)
+
+.navigation-link {
+    
 }
-.button{
-    color: blue;
-}
-.footer{
+
+.allbutton {
     background-color: rgb(60, 63, 66)
 }
-body{
+
+.button {
+    color: blue;
+}
+
+.footer {
+    background-color: rgb(60, 63, 66)
+}
+
+body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
