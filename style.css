@@ -3,6 +3,11 @@
     --button: #2196F3;
     --main-background: #FFFFFF
 }
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
 
 .tiitle {
     color:blue;
@@ -33,16 +38,15 @@ list-style: none;
     background-color: rgb(60, 63, 66)
 }
 
-.button {
-    color: blue;
+.hero-button {
+    background-color: var(--button);
 }
 
 .footer {
     background-color: rgb(60, 63, 66)
 }
-
-body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 14px;
-    font-weight: 400;
+.hero{
+    background-color: var(--hero-background);
 }
+
+
