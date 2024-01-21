@@ -1,15 +1,15 @@
-:root {
+:root{
     --hero-background: #2F303A;
     --button: #2196F3;
     --main-background: #FFFFFF
 }
-body {
+body{
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
 }
 
-.tiitle {
+.tiitle{
     color:blue;
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
@@ -17,11 +17,11 @@ body {
     
 }
 
-.title {
+.title{
     color: black;
 }
 
-.navigation-list {
+.navigation-list{
     color: black;
     list-style: none;
     
@@ -30,19 +30,19 @@ body {
 list-style: none;
 }
 
-.navigation-link {
+.navigation-link{
     
 }
 
-.allbutton {
+.allbutton{
     background-color: rgb(60, 63, 66)
 }
 
-.hero-button {
+.hero-button{
     background-color: var(--button);
 }
 
-.footer {
+.footer{
     background-color: rgb(60, 63, 66)
 }
 .hero{
