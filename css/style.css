@@ -1,81 +1,88 @@
-:root{
+:root {
     --hero-background: #2F303A;
     --button: #2196F3;
     --main-background: #FFFFFF
 }
-body{
+
+body {
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     font-weight: 400;
 }
 
-.tiitle{
-    color:blue;
+.tiitle {
+    color: blue;
     font-family: 'Raleway', sans-serif;
     font-size: 26px;
     font-weight: 700;
-    
+
 }
 
-.title{
+.title {
     color: black;
 }
 
-.navigation-list{
+.navigation-list {
     color: black;
     list-style: none;
-    
-}
-.contacts{ 
-list-style: none;
+
 }
 
-.navigation-link{
-    
+.contacts {
+    list-style: none;
 }
 
-.allbutton{
+/* .navigation-link{
+    
+}*/
+
+.allbutton {
     background-color: rgb(60, 63, 66)
 }
 
-.hero-button{
+.hero-button {
     background-color: var(--button);
 }
 
-.footer{
+.footer {
     background-color: rgb(60, 63, 66)
 }
-.hero{
+
+.hero {
     background-color: var(--hero-background);
 }
 
 
-.container{
+.container {
     width: 1200px;
 }
-.header{
+
+.header {
     padding-top: 24px;
     padding-bottom: 25px;
 }
-.hero{ 
+
+.hero {
     padding-top: 200px;
     padding-bottom: 200px;
 }
-.features{
+
+.features {
     padding-top: 94px;
 
 }
-.work{
+
+.work {
     padding-top: 94px;
     padding-bottom: 94px;
 }
-.team{
-     padding-top: 94px;
-     padding-bottom: 94px;
+
+.team {
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
-.footer{
+
+.footer {
     padding-top: 60px;
     padding-bottom: 60px;
 }
-
-
